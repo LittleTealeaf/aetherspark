@@ -1,0 +1,14 @@
+{
+  "id": "aetherspark",
+  "title": "Aetherspark World Module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "authors": [
+    {
+    "name": "Thomas Kwashnak"
+    }
+  ],
+  "version": "1.0.0",
+  "scripts": [
+    "scripts/magic.js"
+  ]
+}
